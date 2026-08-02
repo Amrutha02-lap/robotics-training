@@ -1,8 +1,8 @@
-\# Linux Preparation - Day 2
+&#x09;					Linux Preparation - Day 2
 
 
 
-&#x09;					 Commands Learned
+Commands Learned
 
 
 
@@ -53,6 +53,4 @@ grep Linux Linux\_Prep\_Day2.md
 &#x20;chmod
 
 Changes file permissions.
-
-
 

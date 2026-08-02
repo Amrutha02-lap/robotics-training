@@ -1,4 +1,4 @@
-&#x09;						 ROS2 - Day 2
+						 ROS2 - Day 2
 
 
 
@@ -14,17 +14,17 @@ A ROS2 workspace is a directory used to develop and build ROS2 packages. A commo
 
 
 
-\- src: contains packages and source code.
+- src: contains packages and source code.
 
-\- build: contains build files.
+- build: contains build files.
 
-\- install: contains installed package files.
+- install: contains installed package files.
 
-\- log: contains build logs.
+- log: contains build logs.
 
 
 
-* &#x20;Package
+* Package
 
 
 
@@ -32,65 +32,8 @@ A package is an organised unit of ROS2 code. It may contain nodes, configuration
 
 
 
-* &#x20;Node
 
-
-
-A node is an individual executable program that performs a specific task.
-
-
-
-Examples:
-
-\- Camera node
-
-\- Object-detection node
-
-\- Motor-control node
-
-
-
-* &#x20;Topic
-
-
-
-A topic is a named communication channel through which nodes exchange continuous data.
-
-
-
-* &#x20;Publisher
-
-
-
-A publisher sends messages to a topic.
-
-
-
-* &#x20;Subscriber
-
-
-
-A subscriber receives messages from a topic.
-
-
-
-* &#x20;Message
-
-
-
-A message defines the structure of the data exchanged between nodes.
-
-
-
-* &#x20;Communication Example
-
-
-
-Camera Node → publishes image message → `/camera/image` topic → Object Detection Node subscribes
-
-
-
-* &#x20;Service
+* Service
 
 
 
@@ -104,7 +47,7 @@ A client asks a node to reset a sensor, and the service returns whether the rese
 
 
 
-* &#x20;Topic vs Service
+* Topic vs Service
 
 
 

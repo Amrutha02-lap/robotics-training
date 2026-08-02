@@ -1,31 +1,32 @@
 # Robotics Training
 
-This repository contains my daily learning, code and projects completed as part of a one-month Robotics Training and Evaluation Program.
+This repository contains my daily learning and practice completed during my robotics training.
 
-Week 1: Foundations
+## Folder Structure
 
-The current focus areas are:
+- Daily Reports – Daily progress updates.
+- Linux – Linux command practice.
+- Notes – Personal learning notes.
+- Python – Python programs.
+- ROS2 – ROS2 concepts and notes.
+- Projects – Future robotics projects.
 
-- Ubuntu and Linux fundamentals
-- Git and GitHub
-- Python programming
+## Progress
+
+### Day 1
+- Linux basics
+- GitHub repository setup
+- Python practice
 - ROS2 fundamentals
-- ROS2 nodes, topics and messages
-- Publisher and subscriber communication
 
- Repository Structure
+### Day 2
+- Advanced Linux commands
+- Git practice
+- VS Code setup
+- ROS2 Workspace and Package concepts
 
-- Notes — Linux and general learning notes
-- Python — Python practice programs
-- ROS2 — ROS2 concepts and future ROS2 code
-- Linux — Linux practice files
-- Projects — mini projects and final project
-
-Day 1 Progress
-
-- Prepared the robotics development workspace
-- Verified Python, Git and VS Code
-- Practised Linux terminal and file-management commands
-- Refreshed Python concepts through practical programs
-- Studied introductory ROS2 concepts
-- Created and configured the GitHub repository
+### Day 3
+- Additional Linux commands
+- Python temperature monitor program
+- Ubuntu download
+- Bootable USB preparation

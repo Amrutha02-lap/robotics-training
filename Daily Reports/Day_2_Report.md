@@ -18,12 +18,8 @@
   rm
   grep
   wc
-  head
-  tail
   find
-  date
   uname
-  hostname
   whoami
   rmdir
 
