@@ -40,3 +40,9 @@ This repository contains my daily learning and practice completed during my robo
 - Built the package using `colcon build`.
 - Ran the node successfully using `ros2 run`.
 
+### Day 5
+- Learned ROS2 Publisher and Subscriber
+- Implemented talker.py and listener.py
+- Built package using colcon
+- Executed nodes using ros2 run
+- Verified message communication between nodes
