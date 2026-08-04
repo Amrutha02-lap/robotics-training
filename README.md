@@ -38,7 +38,7 @@ This repository contains my daily learning and practice completed during my robo
 - Created the first ROS2 Python package (my_robot).
 - Created the first ROS2 node (hello_node.py).
 - Built the package using `colcon build`.
-- Ran the node successfully using `ros2 run`.
+- Run the node successfully using `ros2 run`.
 
 ### Day 5
 - Learned ROS2 Publisher and Subscriber
