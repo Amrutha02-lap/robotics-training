@@ -1,48 +1,71 @@
 # Robotics Training
 
-This repository contains my daily learning and practice completed during my robotics training.
+This repository contains my daily learning and practice completed during my Robotics Training.
 
-## Folder Structure
 
-- Daily Reports – Daily progress updates.
-- Linux – Linux command practice.
-- Notes – Personal learning notes.
-- Python – Python programs.
-- ROS2 – ROS2 concepts and notes.
-- Projects – Future robotics projects.
+## Technologies Used
+
+- Ubuntu 22.04
+- Linux Terminal
+- Git & GitHub
+- Python 3
+- ROS2 Humble
+- Colcon Build System
+- VS Code
+
+
+## Repository Structure
+
+```
+robotics-training/
+│
+├── Daily Reports/
+├── Linux/
+├── Notes/
+├── Python/
+├── ROS2/
+├── ros2_ws/
+└── README.md
+```
+
 
 ## Progress
 
 ### Day 1
 - Linux basics
 - GitHub repository setup
-- Python practice
-- ROS2 fundamentals
+- Python basics
+- ROS2 introduction
 
 ### Day 2
-- Advanced Linux commands
-- Git practice
+- Linux commands
+- Git commands
 - VS Code setup
-- ROS2 Workspace and Package concepts
+- ROS2 workspace concepts
 
 ### Day 3
-- Additional Linux commands
-- Python temperature monitor program
-- Ubuntu download
-- Bootable USB preparation
+- Ubuntu installation
+- Python practice
+- Linux practice
+- ROS2 theory
 
 ### Day 4
-
-- Installed ROS2 Humble on Ubuntu.
-- Created ROS2 workspace (ros2_ws).
-- Created the first ROS2 Python package (my_robot).
-- Created the first ROS2 node (hello_node.py).
-- Built the package using `colcon build`.
-- Run the node successfully using `ros2 run`.
+- Installed ROS2 Humble
+- Created first ROS2 package
+- Created first ROS2 Python node
+- Built package using `colcon build`
+- Run node using `ros2 run`
 
 ### Day 5
-- Learned ROS2 Publisher and Subscriber
-- Implemented talker.py and listener.py
-- Built package using colcon
-- Executed nodes using ros2 run
-- Verified message communication between nodes
+- Created Publisher node
+- Created Subscriber node
+- Understood ROS2 Topics
+- Communication between Publisher and Subscriber
+
+### Day 6
+- Cleaned ROS2 repository
+- Removed generated `build`, `install`, and `log` folders from Git tracking
+- Updated `.gitignore`
+- Improved project documentation
+
+
