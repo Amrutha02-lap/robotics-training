@@ -1,0 +1,7 @@
+[console_scripts]
+hello_node = my_robot.hello_node:main
+listener = my_robot.listener:main
+service_client = my_robot.service_client:main
+service_server = my_robot.service_server:main
+talker = my_robot.talker:main
+

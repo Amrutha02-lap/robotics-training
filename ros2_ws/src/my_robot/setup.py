@@ -25,6 +25,10 @@ setup(
     entry_points={
         'console_scripts': [
 		'hello_node = my_robot.hello_node:main',
-        ],
+                'talker = my_robot.talker:main',
+        	'listener = my_robot.listener:main',
+		'service_server = my_robot.service_server:main',
+		'service_client = my_robot.service_client:main',
+ ],
     },
 )

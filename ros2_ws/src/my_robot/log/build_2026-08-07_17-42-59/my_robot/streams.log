@@ -1,0 +1,53 @@
+[1.128s] Invoking command in '/home/amrutha/robotics-training/ros2_ws/src/my_robot': PYTHONPATH=/home/amrutha/robotics-training/ros2_ws/src/my_robot/build/my_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/amrutha/robotics-training/ros2_ws/src/my_robot/install/my_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/my_robot build --build-base /home/amrutha/robotics-training/ros2_ws/src/my_robot/build/my_robot/build install --record /home/amrutha/robotics-training/ros2_ws/src/my_robot/build/my_robot/install.log --install-scripts $base/lib/my_robot --single-version-externally-managed install_data
+[1.571s] running egg_info
+[1.572s] creating build/my_robot/my_robot.egg-info
+[1.573s] writing build/my_robot/my_robot.egg-info/PKG-INFO
+[1.573s] writing dependency_links to build/my_robot/my_robot.egg-info/dependency_links.txt
+[1.573s] writing entry points to build/my_robot/my_robot.egg-info/entry_points.txt
+[1.573s] writing requirements to build/my_robot/my_robot.egg-info/requires.txt
+[1.574s] writing top-level names to build/my_robot/my_robot.egg-info/top_level.txt
+[1.574s] writing manifest file 'build/my_robot/my_robot.egg-info/SOURCES.txt'
+[1.577s] reading manifest file 'build/my_robot/my_robot.egg-info/SOURCES.txt'
+[1.578s] writing manifest file 'build/my_robot/my_robot.egg-info/SOURCES.txt'
+[1.578s] running build
+[1.579s] running build_py
+[1.579s] creating /home/amrutha/robotics-training/ros2_ws/src/my_robot/build/my_robot/build
+[1.579s] creating /home/amrutha/robotics-training/ros2_ws/src/my_robot/build/my_robot/build/lib
+[1.579s] creating /home/amrutha/robotics-training/ros2_ws/src/my_robot/build/my_robot/build/lib/my_robot
+[1.579s] copying my_robot/hello_node.py -> /home/amrutha/robotics-training/ros2_ws/src/my_robot/build/my_robot/build/lib/my_robot
+[1.580s] copying my_robot/talker.py -> /home/amrutha/robotics-training/ros2_ws/src/my_robot/build/my_robot/build/lib/my_robot
+[1.580s] copying my_robot/service_client.py -> /home/amrutha/robotics-training/ros2_ws/src/my_robot/build/my_robot/build/lib/my_robot
+[1.580s] copying my_robot/__init__.py -> /home/amrutha/robotics-training/ros2_ws/src/my_robot/build/my_robot/build/lib/my_robot
+[1.580s] copying my_robot/listener.py -> /home/amrutha/robotics-training/ros2_ws/src/my_robot/build/my_robot/build/lib/my_robot
+[1.581s] copying my_robot/service_server.py -> /home/amrutha/robotics-training/ros2_ws/src/my_robot/build/my_robot/build/lib/my_robot
+[1.581s] running install
+[1.582s] running install_lib
+[1.583s] creating /home/amrutha/robotics-training/ros2_ws/src/my_robot/install/my_robot/lib/python3.10/site-packages/my_robot
+[1.583s] copying /home/amrutha/robotics-training/ros2_ws/src/my_robot/build/my_robot/build/lib/my_robot/hello_node.py -> /home/amrutha/robotics-training/ros2_ws/src/my_robot/install/my_robot/lib/python3.10/site-packages/my_robot
+[1.584s] copying /home/amrutha/robotics-training/ros2_ws/src/my_robot/build/my_robot/build/lib/my_robot/talker.py -> /home/amrutha/robotics-training/ros2_ws/src/my_robot/install/my_robot/lib/python3.10/site-packages/my_robot
+[1.584s] copying /home/amrutha/robotics-training/ros2_ws/src/my_robot/build/my_robot/build/lib/my_robot/service_client.py -> /home/amrutha/robotics-training/ros2_ws/src/my_robot/install/my_robot/lib/python3.10/site-packages/my_robot
+[1.584s] copying /home/amrutha/robotics-training/ros2_ws/src/my_robot/build/my_robot/build/lib/my_robot/__init__.py -> /home/amrutha/robotics-training/ros2_ws/src/my_robot/install/my_robot/lib/python3.10/site-packages/my_robot
+[1.584s] copying /home/amrutha/robotics-training/ros2_ws/src/my_robot/build/my_robot/build/lib/my_robot/listener.py -> /home/amrutha/robotics-training/ros2_ws/src/my_robot/install/my_robot/lib/python3.10/site-packages/my_robot
+[1.584s] copying /home/amrutha/robotics-training/ros2_ws/src/my_robot/build/my_robot/build/lib/my_robot/service_server.py -> /home/amrutha/robotics-training/ros2_ws/src/my_robot/install/my_robot/lib/python3.10/site-packages/my_robot
+[1.585s] byte-compiling /home/amrutha/robotics-training/ros2_ws/src/my_robot/install/my_robot/lib/python3.10/site-packages/my_robot/hello_node.py to hello_node.cpython-310.pyc
+[1.586s] byte-compiling /home/amrutha/robotics-training/ros2_ws/src/my_robot/install/my_robot/lib/python3.10/site-packages/my_robot/talker.py to talker.cpython-310.pyc
+[1.587s] byte-compiling /home/amrutha/robotics-training/ros2_ws/src/my_robot/install/my_robot/lib/python3.10/site-packages/my_robot/service_client.py to service_client.cpython-310.pyc
+[1.587s] byte-compiling /home/amrutha/robotics-training/ros2_ws/src/my_robot/install/my_robot/lib/python3.10/site-packages/my_robot/__init__.py to __init__.cpython-310.pyc
+[1.587s] byte-compiling /home/amrutha/robotics-training/ros2_ws/src/my_robot/install/my_robot/lib/python3.10/site-packages/my_robot/listener.py to listener.cpython-310.pyc
+[1.588s] byte-compiling /home/amrutha/robotics-training/ros2_ws/src/my_robot/install/my_robot/lib/python3.10/site-packages/my_robot/service_server.py to service_server.cpython-310.pyc
+[1.588s] running install_data
+[1.589s] creating /home/amrutha/robotics-training/ros2_ws/src/my_robot/install/my_robot/share/ament_index
+[1.589s] creating /home/amrutha/robotics-training/ros2_ws/src/my_robot/install/my_robot/share/ament_index/resource_index
+[1.589s] creating /home/amrutha/robotics-training/ros2_ws/src/my_robot/install/my_robot/share/ament_index/resource_index/packages
+[1.589s] copying resource/my_robot -> /home/amrutha/robotics-training/ros2_ws/src/my_robot/install/my_robot/share/ament_index/resource_index/packages
+[1.589s] copying package.xml -> /home/amrutha/robotics-training/ros2_ws/src/my_robot/install/my_robot/share/my_robot
+[1.590s] running install_egg_info
+[1.592s] Copying build/my_robot/my_robot.egg-info to /home/amrutha/robotics-training/ros2_ws/src/my_robot/install/my_robot/lib/python3.10/site-packages/my_robot-0.0.0-py3.10.egg-info
+[1.594s] running install_scripts
+[1.632s] Installing hello_node script to /home/amrutha/robotics-training/ros2_ws/src/my_robot/install/my_robot/lib/my_robot
+[1.632s] Installing listener script to /home/amrutha/robotics-training/ros2_ws/src/my_robot/install/my_robot/lib/my_robot
+[1.632s] Installing service_client script to /home/amrutha/robotics-training/ros2_ws/src/my_robot/install/my_robot/lib/my_robot
+[1.633s] Installing service_server script to /home/amrutha/robotics-training/ros2_ws/src/my_robot/install/my_robot/lib/my_robot
+[1.633s] Installing talker script to /home/amrutha/robotics-training/ros2_ws/src/my_robot/install/my_robot/lib/my_robot
+[1.633s] writing list of installed files to '/home/amrutha/robotics-training/ros2_ws/src/my_robot/build/my_robot/install.log'
+[1.690s] Invoked command in '/home/amrutha/robotics-training/ros2_ws/src/my_robot' returned '0': PYTHONPATH=/home/amrutha/robotics-training/ros2_ws/src/my_robot/build/my_robot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/amrutha/robotics-training/ros2_ws/src/my_robot/install/my_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/my_robot build --build-base /home/amrutha/robotics-training/ros2_ws/src/my_robot/build/my_robot/build install --record /home/amrutha/robotics-training/ros2_ws/src/my_robot/build/my_robot/install.log --install-scripts $base/lib/my_robot --single-version-externally-managed install_data
