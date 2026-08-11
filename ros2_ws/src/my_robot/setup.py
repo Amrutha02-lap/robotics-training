@@ -35,6 +35,7 @@ setup(
 		'service_server = my_robot.service_server:main',
 		'service_client = my_robot.service_client:main',
                 'parameter_node = my_robot.parameter_node:main',
+                'velocity_publisher = my_robot.velocity_publisher:main',
  ],
     },
 )

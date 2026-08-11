@@ -30,15 +30,16 @@ robotics-training/
 
 ## Progress
 
-| Day       | Topics                                 	  |
-| --------- | -----------------------------------    	  |
-| Day 1     | Linux, Git, Workspace                  	  |
-| Day 2     | Ubuntu Installation                    	  |
-| Day 3     | Python Basics                          	  |
-| Day 4     | ROS2 Installation & Node               	  |
-| Day 5     | Publisher & Subscriber                 	  |
-| Day 6     | Repository Cleanup & Documentation     	  |
-| Day 7     | ROS2 Services (Server & Client)             |
-| Day 8     | ROS2 Parameters & Python OOP Revision  	  |
-| Day 9     | ROS2 Actions - Goal, Feedback & Result	  |
-| Day 10    | ROS2 Launch Files - Starting Multiple Nodes |
+| Day       | Topics                                 	                |
+| --------- | --------------------------------------------------------- |
+| Day 1     | Linux, Git, Workspace                  	                |
+| Day 2     | Ubuntu Installation                    	                |
+| Day 3     | Python Basics                          	                |
+| Day 4     | ROS2 Installation & Node               	                |
+| Day 5     | Publisher & Subscriber                 	                |
+| Day 6     | Repository Cleanup & Documentation     	                |
+| Day 7     | ROS2 Services (Server & Client)                           |
+| Day 8     | ROS2 Parameters & Python OOP Revision  	                |
+| Day 9     | ROS2 Actions - Goal, Feedback & Result	                |
+| Day 10    | ROS2 Launch Files - Starting Multiple Nodes               |
+| Day 11    | ROS2 Velocity Commands, Twist Messages & Python Publisher |
