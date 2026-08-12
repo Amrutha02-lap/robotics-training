@@ -43,3 +43,4 @@ robotics-training/
 | Day 9     | ROS2 Actions - Goal, Feedback & Result	                |
 | Day 10    | ROS2 Launch Files - Starting Multiple Nodes               |
 | Day 11    | ROS2 Velocity Commands, Twist Messages & Python Publisher |
+| Day 12    | ROS2 Keyboard Teleoperation & cmd_vel Monitoring          |
