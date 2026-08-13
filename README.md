@@ -44,3 +44,4 @@ robotics-training/
 | Day 10    | ROS2 Launch Files - Starting Multiple Nodes               |
 | Day 11    | ROS2 Velocity Commands, Twist Messages & Python Publisher |
 | Day 12    | ROS2 Keyboard Teleoperation & cmd_vel Monitoring          |
+| Day 13    | ROS2 Camera & LiDAR Basics and LaserScan Publisher        |
