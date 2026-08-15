@@ -46,3 +46,4 @@ robotics-training/
 | Day 12    | ROS2 Keyboard Teleoperation & cmd_vel Monitoring          |
 | Day 13    | ROS2 Camera & LiDAR Basics and LaserScan Publisher        |
 | Day 14    | ROS2 Bag Record & Replay                                  |
+| Day 15    | ROS2 Gazebo simulation basics, URDF model spawning        |
