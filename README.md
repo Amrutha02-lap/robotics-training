@@ -49,3 +49,4 @@ robotics-training/
 | Day 15| ROS2 Gazebo simulation basics, URDF model spawning       	     |
 | Day 16| ROS2 Mobile Robot URDF, Differential Drive & Gazebo Control        |
 | Day 17| Computer Vision & OpenCV Basics - Image Reading, Grayscale & Resize|
+| Day 18| OpenCV Image Processing - Gaussian Blur & Canny Edge Detection     |
