@@ -50,3 +50,4 @@ robotics-training/
 | Day 16| ROS2 Mobile Robot URDF, Differential Drive & Gazebo Control        |
 | Day 17| Computer Vision & OpenCV Basics - Image Reading, Grayscale & Resize|
 | Day 18| OpenCV Image Processing - Gaussian Blur & Canny Edge Detection     |
+| Day 19| Basic Object Detection - Contours & Bounding Boxes                 |
