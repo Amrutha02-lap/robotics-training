@@ -51,3 +51,4 @@ robotics-training/
 | Day 17| Computer Vision & OpenCV Basics - Image Reading, Grayscale & Resize|
 | Day 18| OpenCV Image Processing - Gaussian Blur & Canny Edge Detection     |
 | Day 19| Basic Object Detection - Contours & Bounding Boxes                 |
+| Day 20| OpenCV Object Detection & Simple System Response                   |
