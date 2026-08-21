@@ -52,3 +52,4 @@ robotics-training/
 | Day 18| OpenCV Image Processing - Gaussian Blur & Canny Edge Detection     |
 | Day 19| Basic Object Detection - Contours & Bounding Boxes                 |
 | Day 20| OpenCV Object Detection & Simple System Response                   |
+| Day 21| OpenCV Object Detection Integration with ROS2 Publisher            |
