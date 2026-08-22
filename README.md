@@ -53,3 +53,4 @@ robotics-training/
 | Day 19| Basic Object Detection - Contours & Bounding Boxes                 |
 | Day 20| OpenCV Object Detection & Simple System Response                   |
 | Day 21| OpenCV Object Detection Integration with ROS2 Publisher            |
+| Day 22| ROS2 Object Detection Publisher-Subscriber Communication           |
