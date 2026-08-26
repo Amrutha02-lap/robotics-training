@@ -56,3 +56,4 @@ robotics-training/
 | Day 22| ROS2 Object Detection Publisher-Subscriber Communication           |
 | Day 23| Object Detection Based Robot Stop Control using ROS2               |
 | Day 24| Video Feed Object Detection using OpenCV                           |
+| Day 25| Started ROS2 Simulated Pick-and-Place Controller                   |
